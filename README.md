@@ -1,5 +1,3 @@
-# Web-Scraper
-A Java program that scrape data from the website at the URL below and create a JSON file. 
 # Alaska Senate Scraper
 
 A Java-based web scraper to extract information about Alaska State Senators from the [Alaska State Legislature website](https://akleg.gov/senate.php).
@@ -105,3 +103,7 @@ The scraper generates a JSON file (`alaska_senate.json`) containing an array of 
 3. Add district map information
 4. Include committee memberships
 5. Add caching for repeated runs
+
+## License
+
+This project is provided as-is for educational purposes.
