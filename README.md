@@ -104,6 +104,3 @@ The scraper generates a JSON file (`alaska_senate.json`) containing an array of 
 4. Include committee memberships
 5. Add caching for repeated runs
 
-## License
-
-This project is provided as-is for educational purposes.
