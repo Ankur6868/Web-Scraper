@@ -1,0 +1,222 @@
+[
+    {
+        "country": "Alaska",
+        "otherinfo": "District: District E",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=gie",
+        "name": "Cathy Giessel",
+        "title": "Majority Leader",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=gie",
+        "party": ""
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District C",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=stg",
+        "name": "Gary Stevens",
+        "title": "Senate President",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=stg",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Kodiak | District: District O",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=sho",
+        "name": "Mike Shower",
+        "title": "Minority Leader",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=sho",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Nikiski | District: District D | Phone: 907-465-3701",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=bjk",
+        "name": "Jesse Bjorkman",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=bjk",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District H | Phone: 907-465-4919",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=cla",
+        "name": "Matt Claman",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=cla",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Tok/Northway | District: District R | Phone: 907-465-4527",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=crn",
+        "name": "Mike Cronk",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=crn",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District J | Phone: 907-465-6944",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=dnb",
+        "name": "Forrest Dunbar",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=dnb",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District G | Phone: 907-465-4930",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=gra",
+        "name": "Elvi Gray-Jackson",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=gra",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Bethel | District: District S | Phone: 907-465-4453",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=hof",
+        "name": "Lyman Hoffman",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=hof",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Palmer | District: District M | Phone: 907-465-3743",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=hus",
+        "name": "Shelley Hughes",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=hus",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District F | Phone: 907-465-4949",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=kau",
+        "name": "James Kaufman",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=kau",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Fairbanks | District: District P | Phone: 907-465-3466",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=kaw",
+        "name": "Scott Kawasaki",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=kaw",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Juneau | District: District B | Phone: 907-465-4947",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=kie",
+        "name": "Jesse Kiehl",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=kie",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Eagle River | District: District L | Phone: 907-465-3777",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=mrr",
+        "name": "Kelly Merrick",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=mrr",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: North Pole | District: District Q | Phone: 907-465-3719",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=mye",
+        "name": "Robert Myers",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=mye",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Golovin | District: District T | Phone: 907-465-3707",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=ols",
+        "name": "Donny Olson",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=ols",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Sitka | District: District A | Phone: 907-465-3873",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=smn",
+        "name": "Bert Stedman",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=smn",
+        "party": "Republican"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District I | Phone: 907-465-3704",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=tob",
+        "name": "Loki Tobin",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=tob",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Anchorage | District: District K | Phone: 907-465-2435",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=wie",
+        "name": "Bill Wielechowski",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=wie",
+        "party": "Democrat"
+    },
+    {
+        "country": "Alaska",
+        "otherinfo": "City: Wasilla | District: District N | Phone: 907-465-3878",
+        "dob": "",
+        "profile": "http://www.akleg.gov/basis/Member/Detail/34?code=yun",
+        "name": "Robert Yundt",
+        "title": "Senator",
+        "type": "current",
+        "url": "http://www.akleg.gov/basis/Member/Detail/34?code=yun",
+        "party": "Republican"
+    }
+]
